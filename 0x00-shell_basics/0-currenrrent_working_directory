@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD:0x00-shell_basics/0-currenrrent_working_directory
 root@5508439049ae:/alx-system_engineering-devops/0x00-shell_basics/
+=======
+pwd
+>>>>>>> 5cdce2ecff6312c5d1b0871a9f83c6e1b12675d5:0x00-shell_basics/0-current_working_directory
